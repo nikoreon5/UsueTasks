@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UsueTasks/static/css/main.c5a13637.css",
+    "main.js": "/UsueTasks/static/js/main.decc8bda.js",
+    "index.html": "/UsueTasks/index.html",
+    "main.c5a13637.css.map": "/UsueTasks/static/css/main.c5a13637.css.map",
+    "main.decc8bda.js.map": "/UsueTasks/static/js/main.decc8bda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a13637.css",
+    "static/js/main.decc8bda.js"
+  ]
+}
